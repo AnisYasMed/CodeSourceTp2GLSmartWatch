@@ -1,2 +1,2 @@
 # tpGL2
-Tp1 Smart Watch
+Tp2 Smart Watch utilisation de Patrons de Conceptions : Singleton, Observer, Lookup, Delegation, State pour réaliser une montre intelligente.
